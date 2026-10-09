@@ -1,0 +1,5 @@
+rtsp://admin:PASSWORD@192.168.1.110/Streaming/channels/902
+rtsp://admin:PASSWORD@192.168.1.110/Streaming/channels/1002
+rtsp://admin:PASSWORD@192.168.1.110/Streaming/channels/802
+rtsp://admin:PASSWORD@192.168.1.110/Streaming/channels/1602
+rtsp://admin:PASSWORD@192.168.1.110/Streaming/channels/702
